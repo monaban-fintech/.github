@@ -1,4 +1,4 @@
-# 🌐 Monaban Organization
+# Monaban Fintech
 
 **Monaban — Fintech for Immigrants in Europe**
 
