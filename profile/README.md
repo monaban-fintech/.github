@@ -24,7 +24,7 @@ Welcome to the official GitHub organization of **Monaban**, a fintech designed t
 - Contains models: Lead, User, EmailCampaign, etc.
 
 ### Frontend
-- **Repository**: `monaban-frontend`
+- **Repository**: `monaban-react`
 - Built with React
 - Connects to the backend API
 - Handles lead capture, landing pages, and dashboards
